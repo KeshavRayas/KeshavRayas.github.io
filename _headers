@@ -1,0 +1,9 @@
+/app_bg.wasm
+  Content-Type: application/wasm
+  Cache-Control: public, max-age=3600
+/app.js
+  Cache-Control: public, max-age=3600
+/assets/*
+  Cache-Control: public, max-age=86400
+/fonts/*
+  Cache-Control: public, max-age=86400
